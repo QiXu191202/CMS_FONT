@@ -1,0 +1,8 @@
+.user-wrap {
+  background-image: url('https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/cover.min.jpeg');
+  background-size: cover;
+}
+
+.user-info {
+  background-color: rgba(0, 0, 0, 0.5);
+}
